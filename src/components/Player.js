@@ -124,6 +124,8 @@ const Player = ({
           icon={faAngleRight}
         />
       </div>
+
+      <footer className="footer">Designed and Developed by Sahil</footer>
     </div>
   );
 };
