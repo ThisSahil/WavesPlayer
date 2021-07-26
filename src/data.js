@@ -21,7 +21,8 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#629CBA", "#113462"],
-      audio: "https://pwdown.com/113538/Love Me Someday - Jugni.mp3",
+      audio:
+        "https://dns4.vippendu.com/download/128k-dpmsf/Love-Me-Someday.mp3",
     },
 
     {
@@ -56,7 +57,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#03162E", "#79B9C3"],
-      audio: "https://pwdown.com/14642/Hawa Banke - Darshan Raval.mp3",
+      audio: "https://dns4.vippendu.com/download/128k-dtkiv/Hawa-Banke.mp3",
     },
 
     {
