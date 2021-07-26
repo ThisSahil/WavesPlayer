@@ -10,8 +10,7 @@ function chillHop() {
       id: uuidv4(),
       active: true,
       color: ["#F13E2E", "#2C3536"],
-      audio:
-        "https://jatt.download/music/data/Single_Track/202009/Brown_Munde/128/Brown_Munde_1.mp3",
+      audio: "https://dns4.vippendu.com/download/128k-dcqrg/Brown-Munde.mp3",
     },
 
     {
@@ -22,8 +21,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#629CBA", "#113462"],
-      audio:
-        "https://jatt.download/music/data/Single_Track/202103/Love_Me_Someday/128/Love_Me_Someday_1.mp3",
+      audio: "https://pwdown.com/113538/Love Me Someday - Jugni.mp3",
     },
 
     {
@@ -47,7 +45,7 @@ function chillHop() {
       active: false,
       color: ["#E94793", "#F53959"],
       audio:
-        "https://jatt.download/music/data/Single_Track/202002/Gal_Sun_Shooter-1/128/Gal_Sun_Shooter_1.mp3",
+        "http://dl2.djring.com/sd2.djring.com/128/503883/(DJJOhAL.Com).mp3",
     },
 
     {
@@ -58,8 +56,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#03162E", "#79B9C3"],
-      audio:
-        "https://jatt.download/music/data/New_Talent/201907/Hawa_Banke_Darshan_Raval_Official_Song/128/Hawa_Banke_Darshan_Raval_Official_Song.mp3",
+      audio: "https://pwdown.com/14642/Hawa Banke - Darshan Raval.mp3",
     },
 
     {
@@ -71,7 +68,7 @@ function chillHop() {
       active: false,
       color: ["#26353C", "#870202"],
       audio:
-        "https://jatt.download/music/data/Single_Track/202102/Jatt_Te_Jawani/128/Jatt_Te_Jawani_1.mp3",
+        "http://dl2.djring.com/sd2.djring.com/128/507096/(DJJOhAL.Com).mp3",
     },
 
     {
@@ -94,7 +91,7 @@ function chillHop() {
       active: false,
       color: ["#AE6867", "#3A192E"],
       audio:
-        "https://jatt.download/music/data/Single_Track/202102/Teeji_Seat/128/Teeji_Seat_1.mp3",
+        "https://cdnsongs.com/music/data/Single_Track/202102/Teeji_Seat/128/Teeji_Seat_1.mp3",
     },
 
     {
@@ -116,7 +113,7 @@ function chillHop() {
       active: false,
       color: ["#885854", "#665452"],
       audio:
-        "https://jatt.download/music/data/Single_Track/202104/Insane/128/Insane_1.mp3",
+        "https://cdnsongs.com/music/data/Single_Track/202104/Insane/128/Insane_1.mp3",
     },
 
     {
@@ -161,8 +158,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#FB0F4A", "#F0D79E"],
-      audio:
-        "https://jatt.download/music/data/Single_Track/201612/Daru_Badnaam/128/Daru_Badnaam_1.mp3",
+      audio: "https://dns4.vippendu.com/download/128k-dspsn/Daru-Badnaam.mp3",
     },
 
     {
