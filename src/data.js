@@ -10,7 +10,7 @@ function chillHop() {
       id: uuidv4(),
       active: true,
       color: ["#F13E2E", "#2C3536"],
-      audio: "https://dns4.vippendu.com/download/128k-dcqrg/Brown-Munde.mp3",
+      audio: "https://dns4.pendusaab.com/download/128k-dcqrg/Brown-Munde.mp3",
     },
 
     {
@@ -22,7 +22,7 @@ function chillHop() {
       active: false,
       color: ["#629CBA", "#113462"],
       audio:
-        "https://dns4.vippendu.com/download/128k-dpmsf/Love-Me-Someday.mp3",
+        "https://cdnsongs.com/music/data/Single_Track/202103/Love_Me_Someday/128/Love_Me_Someday_1.mp3",
     },
 
     {
@@ -45,8 +45,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#E94793", "#F53959"],
-      audio:
-        "http://dl2.djring.com/sd2.djring.com/128/503883/(DJJOhAL.Com).mp3",
+      audio: "https://cdn.pagalworld.us/songs/new/192/Gal Sun - Jass Manak.mp3",
     },
 
     {
@@ -57,7 +56,8 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#03162E", "#79B9C3"],
-      audio: "https://dns4.vippendu.com/download/128k-dtkiv/Hawa-Banke.mp3",
+      audio:
+        "https://pagalsong.in/uploads/systemuploads/mp3/Hawa Banke - Darshan Raval/Hawa Banke - Darshan Raval 128 Kbps.mp3",
     },
 
     {
@@ -68,8 +68,7 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#26353C", "#870202"],
-      audio:
-        "http://dl2.djring.com/sd2.djring.com/128/507096/(DJJOhAL.Com).mp3",
+      audio: "https://pwdown.info/113515/Jatt Te Jawani - Dilpreet Dhillon.mp3",
     },
 
     {
@@ -98,12 +97,13 @@ function chillHop() {
     {
       name: "Akhar (Lahoriye)",
       artist: "Amrinder Gill",
-      cover: "https://lq.djring.com/covers/56951/Akhar%20(Lahoriye).jpg",
+      cover:
+        "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3-ap-southeast-1.amazonaws.com/bsbcms/music/1531900708/srch_abcdigital_UKC5K1701101.jpg",
       id: uuidv4(),
       active: false,
       color: ["#3B2C31", "#B19B3E"],
       audio:
-        "http://dl2.djring.com/sd2.djring.com/128/481090/(DJJOhAL.Com).mp3",
+        "https://cdnsongs.com/music/data/Punjabi/201705/Lahoriye/128/Akhar.mp3",
     },
 
     {
@@ -137,18 +137,20 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#9A3412", "#111112"],
-      audio: "https://dns4.vippendu.com/download/128k-dtqwc/Jee-Karda.mp3",
+      audio:
+        "https://cdnsongs.com/music/data/Single_Track/202001/Jee_Karda/128/Jee_Karda_1.mp3",
     },
 
     {
       name: "Koka",
       artist: "Ranjit Bawa",
-      cover: "https://lq.djring.com/covers/723322/Koka.jpg",
+      cover:
+        "https://img.wynk.in/unsafe/248x248/filters:no_upscale():strip_exif():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_sonymusic/music/A10301A0004572846Z_20210328124243840/1616948408/srch_sonymusic_A10328E0009927234L.jpg",
       id: uuidv4(),
       active: false,
       color: ["#17195B", "#BA5F4D"],
       audio:
-        "http://dl2.djring.com/sd2.djring.com/128/507450/(DJJOhAL.Com).mp3",
+        "https://cdnsongs.com/music/data/Single_Track/202103/Koka/128/Koka_1.mp3",
     },
 
     {
@@ -159,7 +161,8 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#FB0F4A", "#F0D79E"],
-      audio: "https://dns4.vippendu.com/download/128k-dspsn/Daru-Badnaam.mp3",
+      audio:
+        "https://cdnsongs.com/music/data/Single_Track/201612/Daru_Badnaam/128/Daru_Badnaam_1.mp3",
     },
 
     {
@@ -170,7 +173,8 @@ function chillHop() {
       id: uuidv4(),
       active: false,
       color: ["#B35237", "#F1BF10"],
-      audio: "https://dns4.vippendu.com/download/128k-agpkf/Boliyan.mp3",
+      audio:
+        "https://raag.fm/files/mp3/128/Punjabi/1297181/Boliyan - (Raag.Fm).mp3",
     },
   ];
 }
